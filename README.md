@@ -1,2 +1,2 @@
-# test-repositiry
+# test-repository
 123
